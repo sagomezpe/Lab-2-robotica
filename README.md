@@ -8,13 +8,12 @@ Msc-Ing. Jhoan Sebastian Rodriguez Rodriguez
 - Santiago Dleon Sanchez Romero <ssanchezro@unal.edu.co>
 
 #### Introducción:
-El laboratorio tiene como objetivo general lograr una familiarización con el manipulador industrial IRB 140 y el entorno virtual de trabajo RobotStudio.
+El laboratorio tiene como objetivo general el adecuar diversas rutinas de movimiento con un mayor uso de rutinas de rapid y del uso de entradas y de salidas
 
 #### Descripción:
-En esta práctica se desarrollarán 3 ejes temáticos:
-- **Rutina de robot:** El primer componente es la comprensión del flujo de programa en RAPID, comprender los tipos de movimientos MOVJ y MOVL, así como sus restricciones.
-- **Herramienta:** El segundo es el diseño y construcción de una herramienta a usar con el robot. Con esta herramienta se podrá comprender el concepto de MTH de Tool y se podrá realizar el proceso de calibración tanto en software como con el robot real (TCP).
-- **Calibración de herramientas:** Comparación del proceso de calibración de la herramienta usando el robot real y empleando Robotstudio.
+En esta práctica se desarrollarán 2 ejes temáticos:
+- **Programación intermedia de rapid:** Se busca ahondar en el lenguaje de programación rapid mediante la implementación de condicionales y bucles para acelerar el desarrollo de codigo.
+- **Manejo del modulo de entradas y salidas:** Se realizara la comunicación necesaria con el controlador para accionar rutinas de movimiento predefinidas mediante el uso de pulsadores.
 
 #### Desarrollo:
 ##### Herramienta:
