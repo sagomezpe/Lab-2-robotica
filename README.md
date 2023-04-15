@@ -29,7 +29,9 @@ Con el codigo diseñado en la practica anterior se realizo la correcta sincroniz
 
 Por cuestiones de tiempo se implemento sin el uso de la herramienta verificando la correcta comunicacion del codigo con el modulo de entradas y salidas
 
-Ejercicio.mp4
+/Ejercicio.mp4
+
+![Alt Text](/Ejercicio.mp4)
 
 ##### Conclusiones:
 
