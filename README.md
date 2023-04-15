@@ -29,9 +29,8 @@ Con el codigo diseñado en la practica anterior se realizo la correcta sincroniz
 
 Por cuestiones de tiempo se implemento sin el uso de la herramienta verificando la correcta comunicacion del codigo con el modulo de entradas y salidas
 
-/Ejercicio.mp4
+https://user-images.githubusercontent.com/94912111/232251762-403a92f0-4c58-4f6a-ab7f-3c562370715f.mp4
 
-![Alt Text](/Ejercicio.mp4)
 
 ##### Conclusiones:
 
