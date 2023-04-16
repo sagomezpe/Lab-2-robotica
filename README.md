@@ -22,6 +22,7 @@ El archivo de Robot Studio inicial donde esta descrita la trayectoria que se sel
 ##### Programación intermedia de rapid:
 Con el fin de establecer la comunicación entre las señales y las rutinas que se querian implementar se modifico el codigo <a href="https://github.com/sagomezpe/Lab-2-robotica/blob/1071a0cf60660b91e042c0234a4326fb5c97ba62/Main_modificado.txt">Main</a>, en donde se puede identificar que se agrego un condicional para poder ejecutar la rutina una vez se cumpla la condicion esperada. El nuevo programa completo se encuentra <a href="https://github.com/sagomezpe/Lab-2-robotica/blob/1071a0cf60660b91e042c0234a4326fb5c97ba62/InicialesJM.rspag">aqui</a>.
 ##### Comunicación con el módulo de entradas y salidas:
+Se añadieron las señales digitales DI_01 y DI_02 de acuerdo a la nomenclatura establecida para facilitar la comunicación con el flex-pendant, considerando que se les agrego las rutinas de dibujado de iniciales y de ir a home respectivamente.
 
 ##### Videos practica en robots reales
 Con el codigo diseñado en la practica anterior se realizo la correcta sincronizacion con el flex pendant y la respectiva configuración para sincronizarlo con los botones para realizar la rutina.
