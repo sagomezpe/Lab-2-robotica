@@ -20,7 +20,7 @@ En esta práctica se desarrollarán 2 ejes temáticos:
 El archivo de Robot Studio inicial donde esta descrita la trayectoria que se selecciono se encuentra adjunto con el nombre  <a href="https://github.com/jmedinave/Lab-1-robotica/blob/main/InicialesRobotStudio.rar">código.</a>
 
 ##### Programación intermedia de rapid:
-Con el fin de establecer la comunicación entre las señales y las rutinas que se querian implementar se modifico el codigo Main, en donde se puede identificar que se agrego un condicional para poder ejecutar la rutina una vez se cumpla la condicion esperada. El nuevo programa completo se encuentra aqui.
+Con el fin de establecer la comunicación entre las señales y las rutinas que se querian implementar se modifico el codigo <a href="https://github.com/sagomezpe/Lab-2-robotica/blob/1071a0cf60660b91e042c0234a4326fb5c97ba62/Main_modificado.txt">Main</a>, en donde se puede identificar que se agrego un condicional para poder ejecutar la rutina una vez se cumpla la condicion esperada. El nuevo programa completo se encuentra <a href="https://github.com/sagomezpe/Lab-2-robotica/blob/1071a0cf60660b91e042c0234a4326fb5c97ba62/InicialesJM.rspag">aqui</a>.
 ##### Comunicación con el módulo de entradas y salidas:
 
 ##### Videos practica en robots reales
