@@ -16,13 +16,12 @@ En esta práctica se desarrollarán 2 ejes temáticos:
 - **Manejo del módulo de entradas y salidas:** Se realizara la comunicación necesaria con el controlador para accionar rutinas de movimiento predefinidas mediante el uso de pulsadores.
 
 #### Desarrollo:
-##### Programación intermedia de rapid:
-
-##### Comunicación con el módulo de entradas y salidas:
-
-
 ##### Código:
-El archivo de Robot Studio se encuentra adjunto con el nombre  <a href="https://github.com/jmedinave/Lab-1-robotica/blob/main/InicialesRobotStudio.rar">código.</a>
+El archivo de Robot Studio inicial donde esta descrita la trayectoria que se selecciono se encuentra adjunto con el nombre  <a href="https://github.com/jmedinave/Lab-1-robotica/blob/main/InicialesRobotStudio.rar">código.</a>
+
+##### Programación intermedia de rapid:
+Con el fin de establecer la comunicación entre las señales y las rutinas que se querian implementar se modifico el codigo Main, en donde se puede identificar que se agrego un condicional para poder ejecutar la rutina una vez se cumpla la condicion esperada. El nuevo programa completo se encuentra aqui.
+##### Comunicación con el módulo de entradas y salidas:
 
 ##### Videos practica en robots reales
 Con el codigo diseñado en la practica anterior se realizo la correcta sincronizacion con el flex pendant y la respectiva configuración para sincronizarlo con los botones para realizar la rutina.
