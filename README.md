@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/94912111/232251762-403a92f0-4c58-4f6a-
 
 
 ##### Conclusiones:
--Se puede concluir con esta practica es factible el control de los brazos robóticos con sistemas de comunicación, como PLC’s, finales de carreras, sistemas de swiches y también diferentes clases de sensores.
+- Se puede concluir con esta practica es factible el control de los brazos robóticos con sistemas de comunicación, como PLC’s, finales de carreras, sistemas de swiches y también diferentes clases de sensores.
 - La implementación de los módulos de salidas y entradas digitales permiten otro tipo de automatización del proceso de ejecución de la trayectoria, lo que permite entender que hay una manera diferente para la administración de las tareas y rutinas que se pueden predeterminar en la programación del brazo robótico.
--Con esta practica se puede identificar que es esencial la interacción con las señales externas con las cuales tiene interacción un sistema robotizado ya que estas nos permiten programar contemplando medidas de seguridad, modificar el desempeño de los robots según las condiciones críticas del medio, etc 
+- Con esta practica se puede identificar que es esencial la interacción con las señales externas con las cuales tiene interacción un sistema robotizado ya que estas nos permiten programar contemplando medidas de seguridad, modificar el desempeño de los robots según las condiciones críticas del medio, etc.
 
