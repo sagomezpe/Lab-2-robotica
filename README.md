@@ -24,6 +24,11 @@ Con el fin de establecer la comunicación entre las señales y las rutinas que s
 ##### Comunicación con el módulo de entradas y salidas:
 Se añadieron las señales digitales DI_01 y DI_02 de acuerdo a la nomenclatura establecida para facilitar la comunicación con el flex-pendant, considerando que se les agrego las rutinas de dibujado de iniciales y de ir a home respectivamente.
 
+##### Videos practica en simulación
+Se procede a ver los detalles modificados del codigo en la simulación de robot studio.
+
+https://user-images.githubusercontent.com/94912111/232263768-e5c59e69-c114-492c-b3a3-d1c92af78233.mp4
+
 ##### Videos practica en robots reales
 Con el codigo diseñado en la practica anterior se realizo la correcta sincronizacion con el flex pendant y la respectiva configuración para sincronizarlo con los botones para realizar la rutina.
 
